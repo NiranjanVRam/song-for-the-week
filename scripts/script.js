@@ -24,7 +24,7 @@ new Vue({
                 favorited: false
             },{
                 name: "Meri Aashiqui",
-                artist: "Palak Muchhal, Arjith Singh, Mithoon",
+                artist: "Palak Muchhal, Arjit Singh, Mithoon",
                 cover: "./img/aashiqui.jpg",
                 source: "./mp3/meriaashiqui.mp3",
                 url: "https://www.youtube.com/watch?v=YipYZY3mmO0",
