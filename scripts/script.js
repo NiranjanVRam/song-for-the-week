@@ -9,11 +9,25 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Lean On",
-                artist: "Major Lazer X DJ Snake Ft. MØ",
-                cover: "./img/leanon.jpg",
-                source: "./mp3/leanon.mp3",
-                url: "https://www.youtube.com/watch?v=YqeW9_5kURI",
+                name: "Dandelions",
+                artist: "Ruth B.",
+                cover: "./img/dandelions.jpg",
+                source: "./mp3/dandelions.mp3",
+                url: "https://www.youtube.com/watch?v=W8a4sUabCUo",
+                favorited: false
+            },{
+                name: "Thuli Thuli",
+                artist: "Yuvan Shankar Raja, Haricharan, Tanvi Shah",
+                cover: "./img/thulithuli.jpg",
+                source: "./mp3/thulithuli.mp3",
+                url: "https://www.youtube.com/watch?v=v-hL3sks2qI",
+                favorited: false
+            },{
+                name: "Meri Aashiqui",
+                artist: "Palak Muchhal, Arjith Singh, Mithoon",
+                cover: "./img/aashiqui.jpg",
+                source: "./mp3/meriaashiqui.mp3",
+                url: "https://www.youtube.com/watch?v=YipYZY3mmO0",
                 favorited: false
             }],
             currentTrack: null,
