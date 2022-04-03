@@ -9,25 +9,18 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Dandelions",
-                artist: "Ruth B.",
-                cover: "./img/dandelions.jpg",
-                source: "./mp3/dandelions.mp3",
-                url: "https://www.youtube.com/watch?v=W8a4sUabCUo",
+                name: "Halka Halka Suroor",
+                artist: "Farhan Saeed",
+                cover: "./img/halkahalkasuroor.jpg",
+                source: "./mp3/halkahalkasuroor.mp3",
+                url: "https://www.youtube.com/watch?v=y4OVJiOwrDs",
                 favorited: false
             },{
-                name: "Thuli Thuli",
-                artist: "Yuvan Shankar Raja, Haricharan, Tanvi Shah",
-                cover: "./img/thulithuli.jpg",
-                source: "./mp3/thulithuli.mp3",
-                url: "https://www.youtube.com/watch?v=v-hL3sks2qI",
-                favorited: false
-            },{
-                name: "Meri Aashiqui",
-                artist: "Palak Muchhal, Arjit Singh, Mithoon",
-                cover: "./img/aashiqui.jpg",
-                source: "./mp3/meriaashiqui.mp3",
-                url: "https://www.youtube.com/watch?v=YipYZY3mmO0",
+                name: "Sorry",
+                artist: "The Rose",
+                cover: "./img/sorrybytherose.jpg",
+                source: "./mp3/sorrybytherose.mp3",
+                url: "https://www.youtube.com/watch?v=uXcpLWB2eBA",
                 favorited: false
             }],
             currentTrack: null,
