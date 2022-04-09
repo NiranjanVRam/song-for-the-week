@@ -9,18 +9,18 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Halka Halka Suroor",
-                artist: "Farhan Saeed",
-                cover: "./img/halkahalkasuroor.jpg",
-                source: "./mp3/halkahalkasuroor.mp3",
-                url: "https://www.youtube.com/watch?v=y4OVJiOwrDs",
+                name: "Ava Enna",
+                artist: "Karthik, V.V. Prassanna, Harris Jayaraj",
+                cover: "./img/avaenna.jpg",
+                source: "./mp3/avaenna.mp3",
+                url: "https://youtu.be/5yjy7djTUDc",
                 favorited: false
-            },{
-                name: "Sorry",
-                artist: "The Rose",
-                cover: "./img/sorrybytherose.jpg",
-                source: "./mp3/sorrybytherose.mp3",
-                url: "https://www.youtube.com/watch?v=uXcpLWB2eBA",
+            }, {
+                name: "Jealous",
+                artist: "Labrinth",
+                cover: "./img/jealous.jpg",
+                source: "./mp3/jealous.mp3",
+                url: "https://youtu.be/50VWOBi0VFs",
                 favorited: false
             }],
             currentTrack: null,
