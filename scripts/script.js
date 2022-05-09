@@ -9,18 +9,39 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Ava Enna",
-                artist: "Karthik, V.V. Prassanna, Harris Jayaraj",
-                cover: "./img/avaenna.jpg",
-                source: "./mp3/avaenna.mp3",
-                url: "https://youtu.be/5yjy7djTUDc",
+                name: "Sweater Weather",
+                artist: "Kurt Hugo, Alyson Stoner, Max S",
+                cover: "https://i.scdn.co/image/ab67616d0000b273c19912b702a9fb6c16e2f79f",
+                source: "./mp3/sweaterweather.mp3",
+                url: "https://www.youtube.com/watch?v=0TSxB_Tb2F0",
                 favorited: false
             }, {
-                name: "Jealous",
-                artist: "Labrinth",
-                cover: "./img/jealous.jpg",
-                source: "./mp3/jealous.mp3",
-                url: "https://youtu.be/50VWOBi0VFs",
+                name: "Mun Andhi",
+                artist: "Karthik, Megha, Harris Jayaraj",
+                cover: "https://i.scdn.co/image/ab67616d0000b273a92381244276bb228861a4b4",
+                source: "./mp3/munandhi.mp3",
+                url: "https://www.youtube.com/watch?v=7fFFbFp8nOg",
+                favorited: false
+            }, {
+                name: "Kan Irandil",
+                artist: "Naresh Iyer",
+                cover: "https://i.scdn.co/image/ab67616d0000b2738c8936fc6488ee14d9db3e42",
+                source: "./mp3/kanirandil.mp3",
+                url: "https://www.youtube.com/watch?v=vKWv_DuhOXg",
+                favorited: false
+            }, {
+                name: "Pasoori",
+                artist: "Ali Sethi, Shae Gill",
+                cover: "https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f",
+                source: "./mp3/pasoori.mp3",
+                url: "https://www.youtube.com/watch?v=5Eqb_-j3FDA",
+                favorited: false
+            }, {
+                name: "Little do you know",
+                artist: "Alex, Sierra",
+                cover: "https://i.scdn.co/image/ab67616d0000b273974f447b29dab2d8d7ea3a5f",
+                source: "./mp3/littledoyouknow.mp3",
+                url: "https://www.youtube.com/watch?v=4bzIpYiPUUo",
                 favorited: false
             }],
             currentTrack: null,
