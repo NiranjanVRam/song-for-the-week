@@ -9,39 +9,11 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Sweater Weather",
-                artist: "Kurt Hugo, Alyson Stoner, Max S",
-                cover: "https://i.scdn.co/image/ab67616d0000b273c19912b702a9fb6c16e2f79f",
-                source: "./mp3/sweaterweather.mp3",
-                url: "https://www.youtube.com/watch?v=0TSxB_Tb2F0",
-                favorited: false
-            }, {
-                name: "Mun Andhi",
-                artist: "Karthik, Megha, Harris Jayaraj",
-                cover: "https://i.scdn.co/image/ab67616d0000b273a92381244276bb228861a4b4",
-                source: "./mp3/munandhi.mp3",
-                url: "https://www.youtube.com/watch?v=7fFFbFp8nOg",
-                favorited: false
-            }, {
-                name: "Kan Irandil",
-                artist: "Naresh Iyer",
-                cover: "https://i.scdn.co/image/ab67616d0000b2738c8936fc6488ee14d9db3e42",
-                source: "./mp3/kanirandil.mp3",
-                url: "https://www.youtube.com/watch?v=vKWv_DuhOXg",
-                favorited: false
-            }, {
-                name: "Pasoori",
-                artist: "Ali Sethi, Shae Gill",
-                cover: "https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f",
-                source: "./mp3/pasoori.mp3",
-                url: "https://www.youtube.com/watch?v=5Eqb_-j3FDA",
-                favorited: false
-            }, {
-                name: "Little do you know",
-                artist: "Alex, Sierra",
-                cover: "https://i.scdn.co/image/ab67616d0000b273974f447b29dab2d8d7ea3a5f",
-                source: "./mp3/littledoyouknow.mp3",
-                url: "https://www.youtube.com/watch?v=4bzIpYiPUUo",
+                name: "Wild Things",
+                artist: "Alessia Cara",
+                cover: "https://i.scdn.co/image/ab67616d0000b27370bd8e96aa5eae26d4c9f26f",
+                source: "./mp3/wildthings.mp3",
+                url: "https://www.youtube.com/watch?v=De30ET0dQpQ",
                 favorited: false
             }],
             currentTrack: null,
