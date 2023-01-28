@@ -9,18 +9,11 @@ new Vue({
             currentTime: null,
             isTimerPlaying: false,
             tracks: [{
-                name: "Living Life In The Night",
-                artist: "Cheriimoya, Sierra Kidd",
-                cover: "https://i.scdn.co/image/ab67616d0000b273525fd662681ed972a3b563a2",
-                source: "./mp3/livinglifeinthenight.mp3",
-                url: "https://www.youtube.com/watch?v=besuhAY4h70",
-                favorited: false
-            },{
-                name: "Kattipudi Kattipudida",
-                artist: "Shankar Mahadevan, Vasundhara Das, Ganga, Sri Ram",
-                cover: "https://i.scdn.co/image/ab67616d0000b273a9fa9aa9390b99b041defb36",
-                source: "./mp3/kattipudida.mp3",
-                url: "https://www.youtube.com/watch?v=Um0oFEkhtbo",
+                name: "Lean On",
+                artist: "Major Lazer, DJ Snake",
+                cover: "./img/leanon.jpg",
+                source: "./mp3/leanon.mp3",
+                url: "https://www.youtube.com/watch?v=YqeW9_5kURI",
                 favorited: false
             }],
             currentTrack: null,
